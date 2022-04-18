@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">Mi nombre es Alejandro soy una persona autodidacta, me gusta aprender cosas nuevas y trabajar en el apartado de back-end.</h3>
+<h3 align="center">Soy una persona autodidacta, me gusta aprender cosas nuevas y trabajar en el apartado de back-end.</h3>
 
 <h3 align="left">:iphone:  Connect with me:</h3>
 <p align="left">
